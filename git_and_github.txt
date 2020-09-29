@@ -1,0 +1,2 @@
+Git es un sistema de control de versiones distribuido.
+Github github.com es un servicio para alojamiento de repositorios de software gestionados por el sistema de control de versiones Git.
